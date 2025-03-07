@@ -1,1 +1,8 @@
 .terraform/
+<<<<<<< HEAD
+.terraform/
+*.zip
+*.tar.gz
+.terraform/
+=======
+>>>>>>> 3b6dc0ebb4cf225d6b4ef3000f2f96338b9d4204

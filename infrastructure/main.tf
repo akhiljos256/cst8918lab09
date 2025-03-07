@@ -8,11 +8,10 @@ terraform {
 }
 
 provider "azurerm" {
-  features {
-      }
+  features {}
 }
 
-resource "azurerm_resource_group"     "rg" {
+resource "azurerm_resource_group" "rg" {
   name     = "my-resource-group"
-  location="East US"
-} 
+  location = "East US"
+}
